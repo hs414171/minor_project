@@ -10,7 +10,6 @@ from kivy.uix.floatlayout import FloatLayout
 from kivy.uix.label import Label
 from kivy.uix.button import Button
 import requests
-import json
 #-------------------------------------------------------------Setting up global variables------------------------------------------------------------------#
 global networkInterfaces
 # global api_uri
