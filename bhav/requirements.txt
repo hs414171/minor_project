@@ -1,0 +1,8 @@
+kivy
+psutil
+requests
+flask
+pyshark
+nest_asyncio
+pandas
+openpyxl
