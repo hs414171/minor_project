@@ -6,3 +6,4 @@ pyshark
 nest_asyncio
 pandas
 openpyxl
+Flask[async]
